@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Your Name"
+  site-url: "https://yourname.com"
+  description: "PhD candidate in finance. Capital allocation under information asymmetry."
+  favicon: favicon.png
+  navbar:
+    pinned: false
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: cv.pdf
+        text: CV
+    right:
+      - icon: envelope
+        href: "mailto:name@university.edu"
+        aria-label: Email
+      - icon: mortarboard
+        href: "https://scholar.google.com/citations?user=YOURID"
+        aria-label: Google Scholar
+  page-footer:
+    center: "Last updated {{< meta date-modified >}}"
+
+format:
+  html:
+    theme: theme.scss
+    include-in-header: header.html
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

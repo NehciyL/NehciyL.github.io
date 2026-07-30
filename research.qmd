@@ -1,0 +1,55 @@
+---
+title: "Research"
+date-modified: last-modified
+---
+
+## working papers
+
+::: {.paper}
+::: {.paper-status .current}
+Working paper
+:::
+::: {}
+### Skin in the game, head in the sand
+
+[Sponsor commitment and SPAC outcomes]{.paper-sub}
+
+::: {.paper-links}
+[Abstract](#){data-bs-toggle="collapse"} [PDF](papers/paper1.pdf) [SSRN](#)
+:::
+
+::: {.abstract}
+Using manual extraction of lock-up agreements and sponsor capital commitments
+from 1,525 SPAC prospectuses filed between 2006 and 2024, we test whether
+financial commitment mechanisms discipline sponsor behaviour.
+:::
+:::
+:::
+
+::: {.paper}
+::: {.paper-status}
+Draft available
+:::
+::: {}
+### Sponsor reputation and capital allocation under extreme information asymmetry
+
+[Evidence from SPACs]{.paper-sub}
+
+::: {.paper-links}
+[PDF](papers/paper2.pdf)
+:::
+:::
+:::
+
+## work in progress
+
+::: {.paper}
+::: {.paper-status}
+In preparation
+:::
+::: {}
+### Does regulation actually protect investors?
+
+[Evidence from regulatory interventions in SPAC markets]{.paper-sub}
+:::
+:::
