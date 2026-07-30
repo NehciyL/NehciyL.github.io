@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "I am a PhD candidate in finance at University, where I study capital allocation under information asymmetry. My current work asks how investors value intermediaries when firm fundamentals are unobservable, using the market for blank-cheque acquisition companies as a setting.\nBefore the PhD I worked in X. I hold an MSc in Y from Z.\nname@university.edu  ·  Department of Finance, University"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Your Name",
+    "section": "research",
+    "text": "research\nI work on corporate finance and financial intermediation, with an empirical focus on hand-collected contract data. Recent projects examine sponsor commitment mechanisms and reputation in SPAC markets.\nSee all papers →"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Your Name",
+    "section": "teaching",
+    "text": "teaching\nTeaching assistant, Corporate Finance (undergraduate), 2025–26."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Working paper\n\n\n\nSponsor commitment and SPAC outcomes\n\nAbstract PDF SSRN\n\n\nUsing manual extraction of lock-up agreements and sponsor capital commitments from 1,525 SPAC prospectuses filed between 2006 and 2024, we test whether financial commitment mechanisms discipline sponsor behaviour.\n\n\n\n\n\nDraft available\n\n\n\nEvidence from SPACs\n\nPDF"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Working paper\n\n\n\nSponsor commitment and SPAC outcomes\n\nAbstract PDF SSRN\n\n\nUsing manual extraction of lock-up agreements and sponsor capital commitments from 1,525 SPAC prospectuses filed between 2006 and 2024, we test whether financial commitment mechanisms discipline sponsor behaviour.\n\n\n\n\n\nDraft available\n\n\n\nEvidence from SPACs\n\nPDF"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "work in progress",
+    "text": "work in progress\n\n\nIn preparation\n\n\nDoes regulation actually protect investors?\nEvidence from regulatory interventions in SPAC markets"
+  }
+]
