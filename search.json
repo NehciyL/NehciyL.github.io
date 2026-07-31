@@ -1,44 +1,72 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Your Name",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hi there!",
     "section": "",
-    "text": "I am a PhD candidate in finance at University, where I study capital allocation under information asymmetry. My current work asks how investors value intermediaries when firm fundamentals are unobservable, using the market for blank-cheque acquisition companies as a setting.\nBefore the PhD I worked in X. I hold an MSc in Y from Z.\nname@university.edu  ·  Department of Finance, University"
+    "text": "More adjectives, Here we go.\nWorkaholic is a compliment, and sportsaholic is the other half. So if I’m not in the office, you might find me in the gym, on a fencing piste, on a squash court, or on a trail. Or on the way to one of them.\nJust a small reminder, if you’re looking for what I’m working on, that would be here."
   },
   {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
-    "title": "Your Name",
-    "section": "research",
-    "text": "research\nI work on corporate finance and financial intermediation, with an empirical focus on hand-collected contract data. Recent projects examine sponsor commitment mechanisms and reputation in SPAC markets.\nSee all papers →"
+    "objectID": "about.html#whatelse",
+    "href": "about.html#whatelse",
+    "title": "Hi there!",
+    "section": "Whatelse",
+    "text": "Whatelse\nVegetarian: for the climate. It’s hard to avoid using AI these days, so this is the trade off. (Actually, I became vegetarian long before AI)\nHiker ProMax: beyond the leisure trails: the Camino de Santiago, and Annapurna Base Camp (List ongoing…). Hiking is another way to think, at least Nietzsche agrees."
   },
   {
-    "objectID": "index.html#teaching",
-    "href": "index.html#teaching",
-    "title": "Your Name",
-    "section": "teaching",
-    "text": "teaching\nTeaching assistant, Corporate Finance (undergraduate), 2025–26."
+    "objectID": "about.html#reaching-me",
+    "href": "about.html#reaching-me",
+    "title": "Hi there!",
+    "section": "reaching me",
+    "text": "reaching me\nEmail reaches me fastest. Post also works, if you’re patient.\nyichen1.liu@skema.edu"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Working paper\n\n\n\nSponsor commitment and SPAC outcomes\n\nAbstract PDF SSRN\n\n\nUsing manual extraction of lock-up agreements and sponsor capital commitments from 1,525 SPAC prospectuses filed between 2006 and 2024, we test whether financial commitment mechanisms discipline sponsor behaviour.\n\n\n\n\n\nDraft available\n\n\n\nEvidence from SPACs\n\nPDF"
+    "text": "Drafts are available on request."
   },
   {
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
     "title": "Research",
-    "section": "",
-    "text": "Working paper\n\n\n\nSponsor commitment and SPAC outcomes\n\nAbstract PDF SSRN\n\n\nUsing manual extraction of lock-up agreements and sponsor capital commitments from 1,525 SPAC prospectuses filed between 2006 and 2024, we test whether financial commitment mechanisms discipline sponsor behaviour.\n\n\n\n\n\nDraft available\n\n\n\nEvidence from SPACs\n\nPDF"
+    "section": "working papers",
+    "text": "working papers\n\n\nWorking paper\n\n\nSkin in the Game, Head in the Sand\nSponsor commitment and SPAC outcomes\n\nUsing manual extraction of lock-up agreements and sponsor capital commitments from 1,525 SPAC S-1 prospectuses filed between 2006 and 2024, we test whether financial commitment mechanisms discipline sponsor behaviour. We document three main findings. First, commitment is irrelevant: neither lock-up structure nor sponsor capital at risk predicts deal completion, post-merger returns, or target accounting quality, with confidence intervals precise enough to rule out economically meaningful effects. Second, commitment signals are regime dependent. They predict outcomes in pre-boom conditions but collapse during the 2020 to 2021 wave, revealing that extreme market conditions can override whatever disciplining role formal commitment plays. Third, for experienced sponsors the commitment null reverses, suggesting that sponsor characteristics rather than contractual terms may be the more relevant governance dimension. Overall, our findings suggest that SPAC governance reform should focus on contract design features other than commitment term standardisation, and that the conditions under which sponsor characteristics matter for investor outcomes deserve further investigation.\n\n\n\n\n\nWorking paper\n\n\nAll That Glitters is Not Gold\nSponsor Reputation and Capital Allocation in SPACs\n\nIn Special Purpose Acquisition Companies, sponsor reputation is the only signal available to investors at IPO. Using 1,524 SPACs filed between 2006 and 2024, we construct a Sponsor Quality Index from verifiable pre-IPO characteristics and document three main findings. First, reputation certifies selectively: sponsor track record predicts deal completion and target quality while credentials and team composition do not. Second, deals completed near the mandatory 24-month deadline produce twelve-month abnormal returns 17.0 percentage points lower than earlier deals. Third, mandatory disclosure of sponsor track records improves market composition while uniform compliance cost increases degrade it. Overall, our findings establish that sponsor track record is a credible and actionable quality signal in SPACs, and identify the mandatory deadline as a distinct source of investor wealth destruction that regulation can directly address."
   },
   {
     "objectID": "research.html#work-in-progress",
     "href": "research.html#work-in-progress",
     "title": "Research",
     "section": "work in progress",
-    "text": "work in progress\n\n\nIn preparation\n\n\nDoes regulation actually protect investors?\nEvidence from regulatory interventions in SPAC markets"
+    "text": "work in progress\n\n\nIn preparation\n\n\nDoes Regulation Actually Protect Investors?\nEvidence from regulatory interventions in SPAC markets"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Not 404",
+    "section": "",
+    "text": "2025–26\n\n\nTBD\nSurprised you made it here. Let’s hope together.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yichen Liu",
+    "section": "",
+    "text": "PhD candidate in finance at SKEMA Business School.\nCorporate finance, corporate governance, behavioural finance, regulation.\nA human trying to write this without adjectives. For adjectives, ☞ here.\nOr use one of the buttons below.\n\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     Scholar\n  \n  \n    \n     LinkedIn"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Yichen Liu",
+    "section": "Research",
+    "text": "Research\nCorporate finance, with a focus on corporate governance, M&A and behavioural finance. Recent projects use SPACs (blank-cheque companies) as a setting.\nWhat I’m working on →"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Yichen Liu",
+    "section": "Teaching",
+    "text": "Teaching\nNothing here yet. The page exists in hope.\nI’m Feeling Lucky →"
   }
 ]

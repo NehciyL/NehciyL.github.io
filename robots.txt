@@ -1,1 +1,1 @@
-Sitemap: https://yourname.com/sitemap.xml
+Sitemap: https://nehciyl.github.io/sitemap.xml
