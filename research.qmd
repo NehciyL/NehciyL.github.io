@@ -5,11 +5,11 @@ date-modified: last-modified
 
 Drafts are available on request.
 
-## working papers
+## Working Papers
 
 ::: {.paper}
 ::: {.paper-status .current}
-Working paper
+Working Paper
 :::
 ::: {}
 ### Skin in the Game, Head in the Sand
@@ -27,7 +27,7 @@ Third, for experienced sponsors the commitment null reverses, suggesting that sp
 
 ::: {.paper}
 ::: {.paper-status .current}
-Working paper
+Working Paper
 :::
 ::: {}
 ### All That Glitters is Not Gold
@@ -45,7 +45,7 @@ Overall, our findings establish that sponsor track record is a credible and acti
 :::
 :::
 
-## work in progress
+## Work in Progress
 
 ::: {.paper}
 ::: {.paper-status}
