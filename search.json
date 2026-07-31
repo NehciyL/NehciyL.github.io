@@ -17,8 +17,8 @@
     "objectID": "about.html#reaching-me",
     "href": "about.html#reaching-me",
     "title": "Hi there!",
-    "section": "reaching me",
-    "text": "reaching me\nEmail reaches me fastest. Post also works, if you’re patient.\nyichen1.liu@skema.edu"
+    "section": "Reaching me",
+    "text": "Reaching me\nEmail reaches me fastest. Post also works, if you’re patient.\nyichen1.liu@skema.edu"
   },
   {
     "objectID": "research.html",
@@ -31,15 +31,15 @@
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
     "title": "Research",
-    "section": "working papers",
-    "text": "working papers\n\n\nWorking paper\n\n\nSkin in the Game, Head in the Sand\nSponsor commitment and SPAC outcomes\n\nUsing manual extraction of lock-up agreements and sponsor capital commitments from 1,525 SPAC S-1 prospectuses filed between 2006 and 2024, we test whether financial commitment mechanisms discipline sponsor behaviour. We document three main findings. First, commitment is irrelevant: neither lock-up structure nor sponsor capital at risk predicts deal completion, post-merger returns, or target accounting quality, with confidence intervals precise enough to rule out economically meaningful effects. Second, commitment signals are regime dependent. They predict outcomes in pre-boom conditions but collapse during the 2020 to 2021 wave, revealing that extreme market conditions can override whatever disciplining role formal commitment plays. Third, for experienced sponsors the commitment null reverses, suggesting that sponsor characteristics rather than contractual terms may be the more relevant governance dimension. Overall, our findings suggest that SPAC governance reform should focus on contract design features other than commitment term standardisation, and that the conditions under which sponsor characteristics matter for investor outcomes deserve further investigation.\n\n\n\n\n\nWorking paper\n\n\nAll That Glitters is Not Gold\nSponsor Reputation and Capital Allocation in SPACs\n\nIn Special Purpose Acquisition Companies, sponsor reputation is the only signal available to investors at IPO. Using 1,524 SPACs filed between 2006 and 2024, we construct a Sponsor Quality Index from verifiable pre-IPO characteristics and document three main findings. First, reputation certifies selectively: sponsor track record predicts deal completion and target quality while credentials and team composition do not. Second, deals completed near the mandatory 24-month deadline produce twelve-month abnormal returns 17.0 percentage points lower than earlier deals. Third, mandatory disclosure of sponsor track records improves market composition while uniform compliance cost increases degrade it. Overall, our findings establish that sponsor track record is a credible and actionable quality signal in SPACs, and identify the mandatory deadline as a distinct source of investor wealth destruction that regulation can directly address."
+    "section": "Working Papers",
+    "text": "Working Papers\n\n\nWorking Paper\n\n\nSkin in the Game, Head in the Sand\nSponsor commitment and SPAC outcomes\n\nUsing manual extraction of lock-up agreements and sponsor capital commitments from 1,525 SPAC S-1 prospectuses filed between 2006 and 2024, we test whether financial commitment mechanisms discipline sponsor behaviour. We document three main findings. First, commitment is irrelevant: neither lock-up structure nor sponsor capital at risk predicts deal completion, post-merger returns, or target accounting quality, with confidence intervals precise enough to rule out economically meaningful effects. Second, commitment signals are regime dependent. They predict outcomes in pre-boom conditions but collapse during the 2020 to 2021 wave, revealing that extreme market conditions can override whatever disciplining role formal commitment plays. Third, for experienced sponsors the commitment null reverses, suggesting that sponsor characteristics rather than contractual terms may be the more relevant governance dimension. Overall, our findings suggest that SPAC governance reform should focus on contract design features other than commitment term standardisation, and that the conditions under which sponsor characteristics matter for investor outcomes deserve further investigation.\n\n\n\n\n\nWorking Paper\n\n\nAll That Glitters is Not Gold\nSponsor Reputation and Capital Allocation in SPACs\n\nIn Special Purpose Acquisition Companies, sponsor reputation is the only signal available to investors at IPO. Using 1,524 SPACs filed between 2006 and 2024, we construct a Sponsor Quality Index from verifiable pre-IPO characteristics and document three main findings. First, reputation certifies selectively: sponsor track record predicts deal completion and target quality while credentials and team composition do not. Second, deals completed near the mandatory 24-month deadline produce twelve-month abnormal returns 17.0 percentage points lower than earlier deals. Third, mandatory disclosure of sponsor track records improves market composition while uniform compliance cost increases degrade it. Overall, our findings establish that sponsor track record is a credible and actionable quality signal in SPACs, and identify the mandatory deadline as a distinct source of investor wealth destruction that regulation can directly address."
   },
   {
     "objectID": "research.html#work-in-progress",
     "href": "research.html#work-in-progress",
     "title": "Research",
-    "section": "work in progress",
-    "text": "work in progress\n\n\nIn preparation\n\n\nDoes Regulation Actually Protect Investors?\nEvidence from regulatory interventions in SPAC markets"
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\n\nIn preparation\n\n\nDoes Regulation Actually Protect Investors?\nEvidence from regulatory interventions in SPAC markets"
   },
   {
     "objectID": "teaching.html",
