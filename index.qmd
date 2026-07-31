@@ -1,31 +1,42 @@
 ---
-title: "Your Name"
-date-modified: last-modified
+pagetitle: "Yichen Liu"
+page-layout: full
+toc: false
+about:
+  id: intro
+  template: jolla
+  image: profile.jpg
+  image-shape: round
+  image-width: 11em
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:yichen1.liu@skema.edu"
+    - icon: mortarboard
+      text: Scholar
+      href: "https://orcid.org/0009-0001-8822-1929"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/yichen-l-a84246105"
 ---
 
-::: {.intro}
-![](profile.jpg){alt="Portrait of Your Name"}
-
-::: {}
-[I am a PhD candidate in finance at University, where I study capital
-allocation under information asymmetry. My current work asks how investors
-value intermediaries when firm fundamentals are unobservable, using the
-market for blank-cheque acquisition companies as a setting.]{.lead}
-
-[Before the PhD I worked in X. I hold an MSc in Y from Z.]{}
-
-[name@university.edu &nbsp;·&nbsp; Department of Finance, University]{.meta}
-:::
+:::{#intro}
+* PhD candidate in finance at SKEMA Business School.
+* Corporate finance, corporate governance, behavioural finance, regulation.
+* A human trying to write this without adjectives. For adjectives, ☞ [here](about.qmd).
+* Or use one of the buttons below.
 :::
 
-## research
+## Research
 
-I work on corporate finance and financial intermediation, with an empirical
-focus on hand-collected contract data. Recent projects examine sponsor
-commitment mechanisms and reputation in SPAC markets.
+Corporate finance, with a focus on corporate governance, M&A and
+behavioural finance. Recent projects use SPACs (blank-cheque companies)
+as a setting.
 
-[See all papers →](research.qmd)
+[What I'm working on →](research.qmd){.more}
 
-## teaching
+## Teaching
 
-Teaching assistant, Corporate Finance (undergraduate), 2025–26.
+Nothing here yet. The page exists in hope.
+
+[I'm Feeling Lucky →](teaching.qmd){.more}

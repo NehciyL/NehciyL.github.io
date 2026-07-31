@@ -2,9 +2,12 @@
 
 $ink:    #1a1d1f;
 $paper:  #fdfdfc;
+$card:   #f2f6fa;
 $muted:  #6b7075;
 $rule:   #e3e3de;
-$ledger: #2f5d50;
+$ledger: #2e5f87;
+$sky:    #6d9cc4;
+$ochre:  #8a6a1f;
 
 $body-bg:    $paper;
 $body-color: $ink;
@@ -17,7 +20,7 @@ $font-family-monospace: ui-monospace, "SF Mono", Menlo, monospace;
 $headings-font-family: "Newsreader", Georgia, serif;
 $headings-font-weight: 400;
 
-$font-size-root: 17px;
+$font-size-root: 18px;
 $line-height-base: 1.65;
 
 $grid-body-width: 760px;
@@ -75,6 +78,10 @@ h2 {
   margin-bottom: 1.25rem;
   border-bottom: 1px solid $rule;
   padding-bottom: 0.5rem;
+}
+
+.quarto-title-block h1.title, h1.title {
+  color: $sky;
 }
 
 p {
@@ -150,7 +157,7 @@ p {
   font-size: 0.78rem;
   letter-spacing: 0.03em;
   margin-right: 1.1rem;
-  border-bottom: 1px solid rgba(47, 93, 80, 0.3);
+  border-bottom: 1px solid rgba(46, 95, 135, 0.3);
 }
 
 .paper-links a:hover {
@@ -185,4 +192,213 @@ a:focus-visible {
 
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }
+}
+
+.wash {
+  background: $card;
+  border-radius: 6px;
+  padding: 1.6rem 1.85rem;
+  margin: 0.5rem 0 2rem;
+}
+
+.wash p {
+  font-size: 1.32rem;
+  line-height: 1.45;
+  max-width: 26em;
+  margin: 0;
+}
+
+.column-margin {
+  font-family: $util;
+  font-size: 0.76rem;
+  font-style: italic;
+  line-height: 1.5;
+  color: $ochre;
+  border-left: 1px solid $rule;
+  padding-left: 0.9rem;
+}
+
+.column-margin a {
+  color: $ochre;
+  border-bottom: 1px solid rgba(138, 106, 31, 0.35);
+}
+
+.mark {
+  color: $ledger;
+  border-bottom: 1.5px solid rgba(46, 95, 135, 0.45);
+}
+
+a.more {
+  font-family: $util;
+  font-size: 0.82rem;
+  letter-spacing: 0.03em;
+  display: inline-block;
+  margin-top: 1.25rem;
+}
+
+a.more:hover {
+  border-bottom: 1px solid $ledger;
+}
+
+@media (max-width: 767px) {
+  .column-margin {
+    border-left: none;
+    border-top: 1px solid $rule;
+    padding: 0.7rem 0 0;
+    margin: 1.25rem 0;
+  }
+  .wash { padding: 1.25rem 1.35rem; }
+  .wash p { font-size: 1.15rem; }
+}
+
+.quarto-title-block h1.title {
+  font-size: 2.4rem;
+  letter-spacing: -0.015em;
+  margin-bottom: 0.35rem;
+}
+
+.tagline {
+  font-family: $util;
+  font-size: 0.8rem;
+  letter-spacing: 0.09em;
+  color: $ochre;
+  margin-bottom: 2.25rem;
+}
+
+.lede p, p.lede {
+  font-size: 1.24rem;
+  line-height: 1.5;
+  max-width: 27em;
+}
+
+.portrait {
+  float: right;
+  width: 150px;
+  margin: 0 0 1.5rem 2rem;
+  border-radius: 3px;
+}
+
+@media (max-width: 620px) {
+  .portrait { float: none; width: 120px; margin: 0 0 1.25rem; display: block; }
+}
+
+html, body, .navbar, #quarto-header, #quarto-content, main.content, .nav-footer {
+  background-color: $paper;
+}
+
+body {
+  font-size: 1.05rem;
+}
+
+#quarto-content > * {
+  padding-top: 1.5rem;
+}
+
+main.content {
+  max-width: 44rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body .page-columns {
+  --grid-body-width: 760px;
+}
+
+p, li {
+  font-size: 1.05rem;
+  line-height: 1.68;
+}
+
+.navbar-container, .nav-footer {
+  max-width: 52rem;
+  margin: 0 auto;
+}
+
+.about-entity, .about-contents {
+  font-family: $font-family-sans-serif;
+}
+
+.about-entity .about-links {
+  gap: 0.5rem;
+  margin-top: 1.25rem;
+}
+
+.about-link {
+  font-family: $util;
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+  border: 1px solid $rule;
+  border-radius: 3px;
+  padding: 0.35rem 0.9rem;
+  color: $ledger;
+}
+
+.about-link:hover {
+  border-color: $sky;
+  background: $card;
+}
+
+#intro p {
+  font-size: 1.15rem;
+  line-height: 1.55;
+  max-width: 30em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quarto-listing {
+  margin-top: 1rem;
+}
+
+.quarto-post {
+  border-top: 1px solid $rule;
+  padding: 1.4rem 0;
+}
+
+.quarto-post .listing-title {
+  font-family: $headings-font-family;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.35;
+}
+
+.quarto-post .listing-description {
+  color: $muted;
+  font-size: 1rem;
+}
+
+.listing-category {
+  font-family: $util;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  color: $ledger;
+  background: $card;
+  border-radius: 3px;
+  padding: 0.15rem 0.55rem;
+  border: none;
+}
+
+#intro ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 auto;
+  max-width: 30em;
+}
+
+#intro li {
+  font-size: 1.08rem;
+  line-height: 1.55;
+  margin-bottom: 0.55rem;
+}
+
+.about-image {
+  border: 1px solid $rule;
+}
+
+h2 {
+  text-align: left;
+}
+
+.quarto-about-jolla .about-entity {
+  margin-bottom: 3rem;
 }

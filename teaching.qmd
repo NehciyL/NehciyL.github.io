@@ -1,0 +1,15 @@
+---
+title: "Not 404"
+date-modified: last-modified
+---
+
+::: {.paper}
+::: {.paper-status .current}
+2025–26
+:::
+::: {}
+### TBD
+
+Surprised you made it here. Let's hope together.
+:::
+:::

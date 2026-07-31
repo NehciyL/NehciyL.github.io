@@ -3,28 +3,39 @@ project:
   output-dir: _site
 
 website:
-  title: "Your Name"
-  site-url: "https://yourname.com"
-  description: "PhD candidate in finance. Capital allocation under information asymmetry."
-  favicon: favicon.png
+  title: "Yichen Liu"
+  site-url: "https://nehciyl.github.io/"
+  description: "PhD candidate in finance."
+  back-to-top-navigation: true
   navbar:
-    pinned: false
+    pinned: true
     left:
-      - href: index.qmd
+      - icon: house-door
+        text: Home
+        href: index.qmd
+      - icon: file-person
         text: About
-      - href: research.qmd
+        href: about.qmd
+      - icon: journal-text
         text: Research
-      - href: cv.pdf
-        text: CV
-    right:
-      - icon: envelope
-        href: "mailto:name@university.edu"
-        aria-label: Email
+        href: research.qmd
+      - icon: easel
+        text: Teaching
+        href: teaching.qmd
+    tools:
       - icon: mortarboard
-        href: "https://scholar.google.com/citations?user=YOURID"
-        aria-label: Google Scholar
+        href: "https://orcid.org/0009-0001-8822-1929"
+      - icon: github
+        href: "https://github.com/NehciyL"
   page-footer:
-    center: "Last updated {{< meta date-modified >}}"
+    left: "Yichen Liu © 2026"
+    center:
+      - icon: envelope
+        href: "mailto:yichen1.liu@skema.edu"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/yichen-l-a84246105"
+    right: "Built with [Quarto](https://quarto.org/)"
+  open-graph: true
 
 format:
   html:
@@ -33,6 +44,3 @@ format:
     toc: false
     anchor-sections: false
     link-external-newwindow: true
-
-execute:
-  freeze: auto

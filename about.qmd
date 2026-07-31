@@ -1,0 +1,22 @@
+---
+title: "Hi there!"
+date-modified: last-modified
+---
+
+More adjectives, Here we go.
+
+Workaholic is a compliment, and sportsaholic is the other half. So if I'm not in the office, you might find me in the gym, on a fencing piste, on a squash court, or on a trail. Or on the way to one of them.
+
+Just a small reminder, if you're looking for what I'm working on, that would be [here](research.qmd).
+
+## Whatelse
+
+Vegetarian: for the climate. It's hard to avoid using AI these days, so this is the trade off. (Actually, I became vegetarian long before AI)
+
+Hiker ProMax: beyond the leisure trails: the Camino de Santiago, and Annapurna Base Camp (List ongoing...). Hiking is another way to think, at least Nietzsche agrees.
+
+## reaching me
+
+Email reaches me fastest. Post also works, if you're patient.
+
+[yichen1.liu@skema.edu](mailto:yichen1.liu@skema.edu){.more}
